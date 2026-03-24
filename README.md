@@ -1,10 +1,10 @@
 # Computer Skills
 
-Repositorio personal de SKILLs personalizados para [Perplexity Computer](https://www.perplexity.ai/), organizados por carpeta para cada tarea o flujo de trabajo que ejecuto.
+Personal repository of custom SKILLs for [Perplexity Computer](https://www.perplexity.ai/), organized by folder for each task or workflow I run.
 
-## Estructura
+## Structure
 
-Cada carpeta contiene un `SKILL.md` que define un skill reutilizable siguiendo la especificación de [Agent Skills](https://github.com/agentskills/agentskills).
+Each folder contains a `SKILL.md` that defines a reusable skill following the [Agent Skills](https://github.com/agentskills/agentskills) specification.
 
 ```
 computer-skills/
@@ -13,6 +13,10 @@ computer-skills/
 └── ...
 ```
 
-## Uso
+## Usage
 
-Cada skill puede ser invocado desde Computer referenciando su `SKILL.md`. Los skills están optimizados para ejecución con datos en vivo, sin archivos estáticos.
+Each skill can be invoked from Computer by referencing its `SKILL.md`. Skills are optimized for live data execution, with no static files.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
